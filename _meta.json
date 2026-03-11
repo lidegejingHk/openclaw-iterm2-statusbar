@@ -1,0 +1,7 @@
+{
+  "name": "openclaw-iterm2-statusbar",
+  "version": "1.0.0",
+  "description": "Install the OpenClaw iTerm2 status bar that shows session cost and context usage in real time.",
+  "author": "ZordanHan",
+  "license": "MIT"
+}
